@@ -4,14 +4,6 @@
 
 <br /><br />
 
-<p align="center">
-  <a href="https://gabrielsuter.dev"><b>gabrielsuter.dev</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gabriel-suter-18973329a"><b>LinkedIn</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:kontakt@gabrielsuter.dev"><b>kontakt@gabrielsuter.dev</b></a>
-</p>
-
 </div>
 
 <br />
