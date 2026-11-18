@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Gabriel Suter, Software Engineer, Switzerland" width="100%" />
+<img src="./banner.png" alt="Gabriel Suter, Software Engineer, Switzerland" width="100%" />
 
 <br /><br />
 
