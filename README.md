@@ -4,13 +4,13 @@
 
 <br /><br />
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle" width="150" height="104"><a href="https://gabrielsuter.dev"><img height="40" src="https://api.iconify.design/mdi/web.svg?color=%2358a6ff" alt="" /><br /><b>gabrielsuter.dev</b></a></td>
-    <td align="center" valign="middle" width="150" height="104"><a href="https://www.linkedin.com/in/gabriel-suter-18973329a"><img height="40" src="https://api.iconify.design/mdi/linkedin.svg?color=%2358a6ff" alt="" /><br /><b>LinkedIn</b></a></td>
-    <td align="center" valign="middle" width="150" height="104"><a href="mailto:kontakt@gabrielsuter.dev"><img height="40" src="https://api.iconify.design/mdi/email-outline.svg?color=%2358a6ff" alt="" /><br /><b>E-Mail</b></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://gabrielsuter.dev"><b>gabrielsuter.dev</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gabriel-suter-18973329a"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:kontakt@gabrielsuter.dev"><b>kontakt@gabrielsuter.dev</b></a>
+</p>
 
 </div>
 
