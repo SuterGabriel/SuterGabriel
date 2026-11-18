@@ -2,8 +2,6 @@
 
 <img src="./banner.png" alt="Gabriel Suter, Software Engineer, Switzerland" width="100%" />
 
-<br /><br />
-
 </div>
 
 ## About
