@@ -29,8 +29,8 @@ Completed a four-year software engineering apprenticeship
 - **Agent instructions live in the repo.** Rules, skills and subagents are versioned next to the code.
 - **Checks before trust.** Tests and CI gates decide whether an agent's work is merged.
 - **Mistakes are written down.** A development log records where the agent got it wrong.
-- **Limits are stated.** Each README says what the project does not prove.
-
+- **Code decides, not the model.** The model proposes. Deterministic rules check the result before anything is saved or sent.
+  
 ## Stack
 
 <div align="center">
