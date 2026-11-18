@@ -4,9 +4,13 @@
 
 <br /><br />
 
-<a href="https://gabrielsuter.dev"><img src="https://img.shields.io/badge/Website-0b0d10?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/gabriel-suter-18973329a"><img src="https://img.shields.io/badge/LinkedIn-0b0d10?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:kontakt@gabrielsuter.dev"><img src="https://img.shields.io/badge/kontakt@gabrielsuter.dev-0b0d10?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle" width="150" height="104"><a href="https://gabrielsuter.dev"><img height="40" src="https://api.iconify.design/mdi/web.svg?color=%2358a6ff" alt="" /><br /><b>gabrielsuter.dev</b></a></td>
+    <td align="center" valign="middle" width="150" height="104"><a href="https://www.linkedin.com/in/gabriel-suter-18973329a"><img height="40" src="https://api.iconify.design/mdi/linkedin.svg?color=%2358a6ff" alt="" /><br /><b>LinkedIn</b></a></td>
+    <td align="center" valign="middle" width="150" height="104"><a href="mailto:kontakt@gabrielsuter.dev"><img height="40" src="https://api.iconify.design/mdi/email-outline.svg?color=%2358a6ff" alt="" /><br /><b>E-Mail</b></a></td>
+  </tr>
+</table>
 
 </div>
 
