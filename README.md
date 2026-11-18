@@ -45,29 +45,29 @@ Completed a four-year software engineering apprenticeship
 
 **Daily**
 
-<img src="https://img.shields.io/badge/TypeScript-0b0d10?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/TypeScript-0b0d10?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Next.js-0b0d10?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-0b0d10?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Python-0b0d10?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PostgreSQL-0b0d10?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Supabase-0b0d10?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-0b0d10?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Claude%20Code-0b0d10?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/React-0b0d10?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Python-0b0d10?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/PostgreSQL-0b0d10?style=for-the-badge&logo=postgresql&logoColor=699ECA" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-0b0d10?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0b0d10?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Claude%20Code-0b0d10?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Code" />
 
 **Four years at work**
 
-<img src="https://img.shields.io/badge/C%23-0b0d10?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/.NET-0b0d10?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/Angular-0b0d10?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-<img src="https://img.shields.io/badge/SQL%20Server-0b0d10?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/C%23-0b0d10?style=for-the-badge&logo=dotnet&logoColor=9B7BEA" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-0b0d10?style=for-the-badge&logo=dotnet&logoColor=9B7BEA" alt=".NET" />
+<img src="https://img.shields.io/badge/Angular-0b0d10?style=for-the-badge&logo=angular&logoColor=F0335B" alt="Angular" />
+<img src="https://img.shields.io/badge/SQL%20Server-0b0d10?style=for-the-badge&logo=databricks&logoColor=E0473A" alt="SQL Server" />
 
 **Also used**
 
-<img src="https://img.shields.io/badge/FastAPI-0b0d10?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Spring%20Boot-0b0d10?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Docker-0b0d10?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Stripe-0b0d10?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-<img src="https://img.shields.io/badge/n8n-0b0d10?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/PostGIS-0b0d10?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS" />
+<img src="https://img.shields.io/badge/FastAPI-0b0d10?style=for-the-badge&logo=fastapi&logoColor=1FB8A6" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Spring%20Boot-0b0d10?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Docker-0b0d10?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+<img src="https://img.shields.io/badge/Stripe-0b0d10?style=for-the-badge&logo=stripe&logoColor=8B85FF" alt="Stripe" />
+<img src="https://img.shields.io/badge/n8n-0b0d10?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+<img src="https://img.shields.io/badge/PostGIS-0b0d10?style=for-the-badge&logo=postgresql&logoColor=699ECA" alt="PostGIS" />
 
 </div>
