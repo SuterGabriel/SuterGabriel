@@ -5,9 +5,6 @@
 <br /><br />
 
 </div>
-
-<br />
-
 ## About
 
 I build products end to end, mostly with coding agents. Agents write most of the
