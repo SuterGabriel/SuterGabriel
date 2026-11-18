@@ -47,16 +47,19 @@ Completed a four-year software engineering apprenticeship
 
 <table align="center">
   <tr>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/typescript/3178C6" alt="" /><br /><b>TypeScript</b></td>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/nextdotjs/white" alt="" /><br /><b>Next.js</b></td>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/react/61DAFB" alt="" /><br /><b>React</b></td>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/python/FFD43B" alt="" /><br /><b>Python</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/typescript/3178C6" alt="" /><br /><b>TypeScript</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/nextdotjs/white" alt="" /><br /><b>Next.js</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/react/61DAFB" alt="" /><br /><b>React</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/python/FFD43B" alt="" /><br /><b>Python</b></td>
   </tr>
+</table>
+
+<table align="center">
   <tr>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/postgresql/699ECA" alt="" /><br /><b>PostgreSQL</b></td>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="" /><br /><b>Supabase</b></td>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/githubactions/2088FF" alt="" /><br /><b>Actions</b></td>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/claude/D97757" alt="" /><br /><b>Claude Code</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/postgresql/699ECA" alt="" /><br /><b>PostgreSQL</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="" /><br /><b>Supabase</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/githubactions/2088FF" alt="" /><br /><b>Actions</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/claude/D97757" alt="" /><br /><b>Claude Code</b></td>
   </tr>
 </table>
 
@@ -66,10 +69,10 @@ Completed a four-year software engineering apprenticeship
 
 <table align="center">
   <tr>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="" /><br /><b>C#</b></td>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/dotnet/9B7BEA" alt="" /><br /><b>.NET</b></td>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/angular/F0335B" alt="" /><br /><b>Angular</b></td>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="" /><br /><b>SQL Server</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="" /><br /><b>C#</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/dotnet/9B7BEA" alt="" /><br /><b>.NET</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/angular/F0335B" alt="" /><br /><b>Angular</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="" /><br /><b>SQL Server</b></td>
   </tr>
 </table>
 
@@ -79,14 +82,17 @@ Completed a four-year software engineering apprenticeship
 
 <table align="center">
   <tr>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/fastapi/1FB8A6" alt="" /><br /><b>FastAPI</b></td>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/springboot/6DB33F" alt="" /><br /><b>Spring Boot</b></td>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/docker/2496ED" alt="" /><br /><b>Docker</b></td>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/stripe/8B85FF" alt="" /><br /><b>Stripe</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/fastapi/1FB8A6" alt="" /><br /><b>FastAPI</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/springboot/6DB33F" alt="" /><br /><b>Spring Boot</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/docker/2496ED" alt="" /><br /><b>Docker</b></td>
   </tr>
+</table>
+
+<table align="center">
   <tr>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="" /><br /><b>n8n</b></td>
-    <td align="center" valign="middle" width="104" height="104"><img height="44" src="https://cdn.simpleicons.org/postgresql/699ECA" alt="" /><br /><b>PostGIS</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/stripe/8B85FF" alt="" /><br /><b>Stripe</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="" /><br /><b>n8n</b></td>
+    <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/postgresql/699ECA" alt="" /><br /><b>PostGIS</b></td>
   </tr>
 </table>
 </div>
