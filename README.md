@@ -43,8 +43,7 @@ Completed a four-year software engineering apprenticeship
 
 <div align="center">
 
-<b>Daily</b>
-
+<h3 align="center">Daily</h3>
 <table align="center">
   <tr>
     <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/typescript/3178C6" alt="" /><br /><b>TypeScript</b></td>
@@ -65,8 +64,7 @@ Completed a four-year software engineering apprenticeship
 
 <br />
 
-<b>Four years at work</b>
-
+<h3 align="center">Four years at work</h3>
 <table align="center">
   <tr>
     <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="" /><br /><b>C#</b></td>
@@ -78,8 +76,7 @@ Completed a four-year software engineering apprenticeship
 
 <br />
 
-<b>Also used</b>
-
+<h3 align="center">Also used</h3>
 <table align="center">
   <tr>
     <td align="center" valign="middle" width="112" height="104"><img height="44" src="https://cdn.simpleicons.org/fastapi/1FB8A6" alt="" /><br /><b>FastAPI</b></td>
